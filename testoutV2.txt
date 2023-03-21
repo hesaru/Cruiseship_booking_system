@@ -1,0 +1,21 @@
+
+Cabin no: 
+1
+Bed no:
+2
+First Name:
+aaa
+Second Name:
+bbb
+Expenses:
+3333.0
+Cabin no: 
+4
+Bed no:
+3
+First Name:
+ddd
+Second Name:
+eee
+Expenses:
+5555.0
